@@ -2,6 +2,6 @@
 int main()
 {
 int n;
-printf("enter the an integer");
+printf("enter the an integer/n");
 scanf("%d",&n);
 
