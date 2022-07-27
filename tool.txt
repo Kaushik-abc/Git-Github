@@ -6,7 +6,7 @@ printf("enter the an integer\n");
 scanf("%d",&n);
 
 if(n%2==0)
-printf("even number\n");
+printf("even numbers\n");
 else
-printf("odd number\n");
+printf("odd numbers\n");
 }
